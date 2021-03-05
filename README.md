@@ -1,2 +1,3 @@
-# a-knudsen.github.io-portfolio
-My GIS portfolio
+# a-knudsen.github.io
+My GIS portfolio 
+
