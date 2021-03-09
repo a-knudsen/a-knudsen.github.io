@@ -112,7 +112,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: rgb(48, 61, 58);
 		line-height: 1.5em;
 	}
 
@@ -122,7 +122,7 @@ input, select, textarea {
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: rgb(31, 43, 37);
 		}
 
 	h2 {
@@ -2247,8 +2247,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #51a394; 
-				background-image: url("../../images/birch.PNG");
+				background-color: #79b9adda; 
+				background-image: url("../../images/birch.png");
 			}
 
 			#main > section.two {
