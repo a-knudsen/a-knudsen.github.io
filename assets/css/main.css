@@ -112,12 +112,12 @@ input, select, textarea {
 
 	h1, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: rgb(43, 19, 53);
+		color: rgb(57, 38, 65);
 		line-height: 1.5em;
 	}
 	h2 {
 		font-weight: 300;
-		color: rgb(209, 228, 223);
+		color: rgb(34, 9, 105);
 		line-height: 1.5em;
 	}
 
@@ -140,7 +140,7 @@ input, select, textarea {
 		}
 
 			h2.alt strong {
-				color: rgb(252, 5, 5);
+				color: rgb(248, 246, 246);
 			}
 
 	h3 {
