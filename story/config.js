@@ -29,7 +29,7 @@ var config = {
             onChapterEnter: [
                  {
                   layer: 'gardens-new-0o4tb6',
-                  opacity: 1
+                  opacity: 1,
                   duration: 5000
                  }
             ],
