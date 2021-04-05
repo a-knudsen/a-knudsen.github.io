@@ -56,8 +56,18 @@ var config = {
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
+            onChapterEnter: [
+                {
+                    layer: 'gardens-new-0o4tb6',
+                    opacity: 1
+                 }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'gardens-new-0o4tb6',
+                    opacity: 1
+                 }
+            ]
         },
         {
             id: 'other-identifier-three',
