@@ -45,7 +45,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Our Story',
-            image: 'C:\Users\ahnak\OneDrive\Documents\GitHub\a-knudsen.github.io\images\rec_ppl.jpg',
+            image: '/images/rec_ppl.jpg',
             description: 'UGROW began in 1995 with 1 garden and 1 volunteer gardener with a vision to grow food in the city. Today, the network has grown to include over 60 community gardens throughout the city of Worcester involving more than 500 volunteer gardeners. Network gardens include neighborhood based gardens, school gardens and urban farms. UGROW poses an alternative to fossil-fueled, corporate agriculture and strengthens and beautifies our neighborhoods through promoting and supporting urban gardening. Scroll down to learn more.',
             location: {
                 center: { lon: -71.80640, lat: 42.25878 },
