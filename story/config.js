@@ -48,8 +48,8 @@ var config = {
             image: '/images/rec_ppl.jpg',
             description: '<p>UGROW began in 1995 with 1 garden and 1 volunteer gardener with a vision to grow food in the city.</p> <p>Today, the network has grown to include over 60 community gardens throughout the city of Worcester involving more than 500 volunteer gardeners.<p> </p>Network gardens include neighborhood based gardens, school gardens and urban farms.</p> <p>UGROW poses an alternative to fossil-fueled, corporate agriculture and strengthens and beautifies our neighborhoods through promoting and supporting urban gardening.</p>',
             location: {
-                center: { lon: -71.80640, lat: 42.25878 },
-                zoom: 13.40,
+                center: { lon: -71.81274, lat: 42.25721 },
+                zoom: 16.28,
                 pitch: 0.00,
                 bearing: 0.00
             },
