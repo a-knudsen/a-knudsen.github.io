@@ -71,14 +71,14 @@ var config = {
         },
         {
             id: 'other-identifier-three',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'YouthGROW',
             image: '/images/rec_oread.jpg',
             description: '<p>Youth Growing Organics in Worcester, or YouthGROW, is an urban agriculture-focused youth development and employment program for Worcester teens. </p>',
             location: {
-                center: { lon: -71.80640, lat: 42.25878 },
-                zoom: 13.40,
+                center: { lon: -71.80932, lat: 42.25391 },
+                zoom: 16.28,
                 pitch: 0.00,
                 bearing: 0.00
             },
@@ -109,7 +109,7 @@ var config = {
         },
         {
             id: 'other-identifier-five',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Fifth Title',
             image: './path/to/image/source.png',
