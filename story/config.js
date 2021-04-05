@@ -15,7 +15,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Urban Garden Resources of Worcester (UGROW)',
-            image: 'C:\Users\ahnak\OneDrive\Documents\GitHub\a-knudsen.github.io\images\rec.jpg',
+            image: '/images/rec.jpg',
             description: '<p>REC’s Urban Garden Resources of Worcester program (UGROW) coordinates a growing network of over 500 community gardeners at 60 urban community gardens, 20 of which are located within public schools.</p> <p>Together these gardens produce over 15,000 pounds of food annually.</p> <p>Scroll down to learn more.</p>',
             location: {
                 center: { lon: -71.80640, lat: 42.25878 },
@@ -73,9 +73,9 @@ var config = {
             id: 'other-identifier-three',
             alignment: 'right',
             hidden: false,
-            title: 'Third Title',
-            image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            title: 'YouthGROW',
+            image: '/images/rec_oread.jpg',
+            description: '<p>Youth Growing Organics in Worcester, or YouthGROW, is an urban agriculture-focused youth development and employment program for Worcester teens. </p>',
             location: {
                 center: { lon: -71.80640, lat: 42.25878 },
                 zoom: 13.40,
