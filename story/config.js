@@ -16,7 +16,7 @@ var config = {
             hidden: false,
             title: 'Urban Garden Resources of Worcester (UGROW)',
             image: 'C:\Users\ahnak\OneDrive\Documents\GitHub\a-knudsen.github.io\images\rec.jpg',
-            description: 'REC’s Urban Garden Resources of Worcester program (UGROW) coordinates a growing network of over 500 community gardeners at 60 urban community gardens, 20 of which are located within public schools. Together these gardens produce over 15,000 pounds of food annually.',
+            description: '<p>REC’s Urban Garden Resources of Worcester program (UGROW) coordinates a growing network of over 500 community gardeners at 60 urban community gardens, 20 of which are located within public schools.</p> <p>Together these gardens produce over 15,000 pounds of food annually.</p> <p>Scroll down to learn more.</p>',
             location: {
                 center: { lon: -71.80640, lat: 42.25878 },
                 zoom: 13.40,
@@ -46,7 +46,7 @@ var config = {
             hidden: false,
             title: 'Our Story',
             image: '/images/rec_ppl.jpg',
-            description: 'UGROW began in 1995 with 1 garden and 1 volunteer gardener with a vision to grow food in the city. Today, the network has grown to include over 60 community gardens throughout the city of Worcester involving more than 500 volunteer gardeners. Network gardens include neighborhood based gardens, school gardens and urban farms. UGROW poses an alternative to fossil-fueled, corporate agriculture and strengthens and beautifies our neighborhoods through promoting and supporting urban gardening. Scroll down to learn more.',
+            description: '<p>UGROW began in 1995 with 1 garden and 1 volunteer gardener with a vision to grow food in the city.</p> <p>Today, the network has grown to include over 60 community gardens throughout the city of Worcester involving more than 500 volunteer gardeners.<p> </p>Network gardens include neighborhood based gardens, school gardens and urban farms.</p> <p>UGROW poses an alternative to fossil-fueled, corporate agriculture and strengthens and beautifies our neighborhoods through promoting and supporting urban gardening.</p>',
             location: {
                 center: { lon: -71.80640, lat: 42.25878 },
                 zoom: 13.40,
