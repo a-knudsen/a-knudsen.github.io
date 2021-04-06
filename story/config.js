@@ -51,7 +51,7 @@ var config = {
                 center: { lon: -71.81274, lat: 42.25721 },
                 zoom: 16.28,
                 pitch: 0.00,
-                bearing: 0.00
+                bearing: 30.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -70,7 +70,7 @@ var config = {
             ]
         },
         {
-            id: 'other-identifier-three',
+            id: 'youthgrow',
             alignment: 'left',
             hidden: false,
             title: 'YouthGROW',
